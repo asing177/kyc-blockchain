@@ -38,3 +38,33 @@ The blockchain is an immutable distributed ledger shared with everyone involved 
 
  
 Banks can utilize the feature set of Blockchain to reduce the difficulties faced by the traditional KYC process. A distributed ledger can be setup between all the banks, where one bank can upload the KYC of a customer and other banks can vote on legitimacy of the customer details. KYC for the customers can be immutably stored and accesses from the Blockchain.
+
+
+# Phases
+
+This case study is divided into 3 parts to achieve the solution:
+
+Phase 1:
+Whenever a new customer enters into the ecosystem, the ‘Trusted Organisation’ i.e. the bank verifies the customer KYC documents.
+
+Once checked for veracity, the bank uploads this data onto the blockchain using the smart contract.
+
+Whenever any new data is needed to be appended, the ledger could enable encrypted updates to the ledger. Mining will make sure that the data gets confirmed over the Blockchain and distributed to all other banks.
+
+The KYC data can be accessed by other banks in real time as and when required.
+
+Phase 2:
+Admin functionalities are provided for the system, where an admin can track the actions such as upload or approval of KYC documents performed by banks.
+
+Other Banks can vote on the KYC process done by a bank for a customer. If the rating/votes are above the standard range then it is taken as an accepted KYC and used by other banks too.
+
+Banks also vote over the other banks to make sure that the banks are secure and not tampered for the KYC process. This identifies whether the bank is corrupted and uploading fake customer KYC. This rating will help us to judge the bank activities and remove the fraudulent bank from our network.
+
+Admin can block any bank from doing a KYC, admin can also add new banks or remove untrusted banks from the smart contract.
+
+Phase 3:
+In this phase, the smart contract will be deployed over a private network which is put up between various banks.
+
+Banks can use the functionalities of Smart Contract over this private Ethereum network.
+
+Banks need to have an account on the private network to interact with the Smart Contract
