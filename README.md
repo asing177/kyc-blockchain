@@ -31,3 +31,10 @@ Banks may even follow up with customers to get more details on KYC.
 Escalating Costs and Time for Banks
 
 A recent study concluded that overheads of KYC in a bank increase the onboarding cost for a customer by 18% and the minimum time required to 26 days.
+
+# Solution using Blockchain
+
+The blockchain is an immutable distributed ledger shared with everyone involved in the network. Every participant interacts with the blockchain using a public-private cryptographic key combination. Moreover, immutable record storage is provided, which is very hard to tamper.
+
+ 
+Banks can utilize the feature set of Blockchain to reduce the difficulties faced by the traditional KYC process. A distributed ledger can be setup between all the banks, where one bank can upload the KYC of a customer and other banks can vote on legitimacy of the customer details. KYC for the customers can be immutably stored and accesses from the Blockchain.
