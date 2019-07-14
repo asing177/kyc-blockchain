@@ -13,3 +13,21 @@ Customer Identification: In the case of suspicious banking transactions through 
 Monitoring of Bank Activities: Suspicious and doubtful activities in any account can be zeroed in by the bank after understanding its customer base using KYC.
 
 Risk Management: Now that bank has all the preliminary information and activity pattern, it can assess the risk and the likelihood of the customer being involved in illegal transactions.
+
+# Problems/Challenges in KYC
+
+Disparity in Specifications for KYC.
+
+Every bank has their own KYC process setup and customers need to do the KYC again and again for each bank.
+
+Due to lack of KYC standards compiling reach request is time-consuming.
+
+Adverse impact on Customer relationship.
+
+It becomes irksome for the customers to provide the same information to different banking entities and industries.
+
+Banks may even follow up with customers to get more details on KYC.
+
+Escalating Costs and Time for Banks
+
+A recent study concluded that overheads of KYC in a bank increase the onboarding cost for a customer by 18% and the minimum time required to 26 days.
